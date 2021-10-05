@@ -4,10 +4,10 @@
     "manifest_version": 2,
     "browser_action":{
         "default_popup":"discord.html",
-        "default_icon":"logo.jfif"
+        "default_icon":"download.jpeg"
     },
     "icons":{
-        "128":"logo.jfif"
+        "128":"download.jpeg"
     },
     "permission":["activeTab"]
 }
